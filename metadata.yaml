@@ -1,0 +1,33 @@
+_repo: Lectures-on-English-poets_72324
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: https://en.wikipedia.org/wiki/James_Russell_Lowell
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72324'
+language: en
+pgterms:marc904: https://archive.org/details/lecturesonenglis01lowe/page/n7/mode/2up
+pgterms:marc905: 20210910180554lowell
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aCleveland :$bThe Rowfant Club, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lectures on English poets
+url: http://www.gutenberg.org/ebooks/72324
